@@ -12,11 +12,11 @@ ALSO :
 
 Used multiple input tags and/or select dropdowns, to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
-date/time
-city
-state
-country
-shape
+date/time,
+city,
+state,
+country,
+shape,
 
 
 
