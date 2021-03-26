@@ -8,3 +8,15 @@ I have put column for date/time, city, state, country, shape, and comment at the
 
 Used a date form in my HTML document and written my JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
+ALSO :
+
+Used multiple input tags and/or select dropdowns, to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+
+date/time
+city
+state
+country
+shape
+
+
+
